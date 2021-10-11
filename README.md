@@ -15,3 +15,5 @@ We must assume that the engineer takes exactly as long as he needs to finish a f
 There are technical or business difficulties that can impact delivery time, but these are obstacles that we cannot avoid.
 
 What causes delay in development are frictions caused by the environment and the organization. These frictions must be observed and eliminated.
+
+**Agile is not a time-driven development method.**
