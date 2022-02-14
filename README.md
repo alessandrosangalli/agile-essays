@@ -4,6 +4,8 @@ What's the point of saying we're doing agile software development if we don't ge
 
 Do you want something to become fashionable in the industry? start charging for certifications. Have you ever seen any extreme programming certification mafia?
 
+Agile software development is the best risk management system we know. Estimates are a risk for the client, choose continuous delivery and evolutive design.
+
 ## Why big teams doesn't work?
 Agile software development implies connection with product/client. The bigger the team is, the greater the likelihood of only some of the members be conected to the 
 value to be delivered. Even if only a few members of a little team will develop a feature, all the team need to understand the value.
