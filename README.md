@@ -6,6 +6,10 @@ Do you want something to become fashionable in the industry? start charging for 
 
 Agile software development is the best risk management system we know. Estimates are a risk for the client, choose continuous delivery and evolutive design.
 
+Abstraction adds complexity, when it solves a problem i'ts ok, but when is just accidental complexity (example: unnecessary interfaces, when a class has just one implementation) we are increasing the cost of the feature (Fundamental Theorem of Agile Software Development).
+
+Why agile teams realy need to understand agile development? because they have freedom to choose how to work, if they don't understand agile development, they can get in troubles.
+
 ## Why big teams doesn't work?
 Agile software development implies connection with product/client. The bigger the team is, the greater the likelihood of only some of the members be conected to the 
 value to be delivered. Even if only a few members of a little team will develop a feature, all the team need to understand the value.
