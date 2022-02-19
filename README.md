@@ -10,6 +10,8 @@ Abstraction adds complexity, when it solves a problem i'ts ok, but when is just 
 
 Why agile teams realy need to understand agile development? because they have freedom to choose how to work, if they don't understand agile development, they can get in troubles.
 
+If you have slow feedback loop, you can lose trust from your team and you may want work about work (like Scrum dailys).
+
 ## Why big teams doesn't work?
 Agile software development implies connection with product/client. The bigger the team is, the greater the likelihood of only some of the members be conected to the 
 value to be delivered. Even if only a few members of a little team will develop a feature, all the team need to understand the value.
