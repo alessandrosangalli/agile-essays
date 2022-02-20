@@ -29,3 +29,5 @@ There are technical or business difficulties that can impact delivery time, but 
 What causes delay in development are frictions caused by the environment and the organization. These frictions must be observed and eliminated.
 
 **Agile is not a time-driven development method.**
+
+SQUAT = Status Quo Using Agile Terminology
