@@ -31,3 +31,5 @@ What causes delay in development are frictions caused by the environment and the
 **Agile is not a time-driven development method.**
 
 SQUAT = Status Quo Using Agile Terminology
+
+On remote environment, create open rooms to instigate the teamwork
