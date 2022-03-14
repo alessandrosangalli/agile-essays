@@ -33,3 +33,6 @@ What causes delay in development are frictions caused by the environment and the
 SQUAT = Status Quo Using Agile Terminology
 
 On remote environment, create open rooms to instigate the teamwork
+
+## On Sync Code Review
+Author perspective is a illusion, does not make sense. You cannot really expect a third person who's never been involve in any conversation about the work done by the pair, who hasn't participated in the thinking process that led to that code, who hasn't discussed the intricaies of a solution, to be able to jump in at the end of development and give any productive advice. And if any productive advice is given, that's a waste, cause it's happening too late. 
