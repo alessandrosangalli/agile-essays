@@ -40,3 +40,4 @@ Author perspective is a illusion, does not make sense. You cannot really expect 
 
 develop: https://www.youtube.com/watch?v=WSes_PexXcA&t=1s
 dora metrics
+xp book
