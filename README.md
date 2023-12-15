@@ -37,6 +37,35 @@ On remote environment, create open rooms to instigate the teamwork
 ## On Sync Code Review
 Author perspective is a illusion, does not make sense. You cannot really expect a third person who's never been involve in any conversation about the work done by the pair, who hasn't participated in the thinking process that led to that code, who hasn't discussed the intricaies of a solution, to be able to jump in at the end of development and give any productive advice. And if any productive advice is given, that's a waste, cause it's happening too late. 
 
+## Joy Of Agility notes
+If something is slow, stressful, or awkward, transform it via safety and speed.
+
+What activities are you or your customers forced to perform today that are slow, hard, and ungraceful? What product or service could you invent that would give you or your customers the superpowers to make those same activities quick, easy, and graceful?
+Help people be agile by removing the stress and mess of slow, hard, ungraceful experiences.
+
+How often do you or your teams spend time with actual users or customers? What could improve this collaboration?
+Bring together people who can identify and solve problems. Close, frequent collaboration increases agility.
+
+Traditions are hard to break. Many people who learned how to perform a skill years or decades ago use the same technique when teaching others. They are stuck in a traditional mindset, unaware of new, innovative approaches that help us establish balance sooner; drive out fear more effectively; and make it quicker, easier, and more graceful to learn a new skill.
+Don’t just blindly follow long-established approaches when learning a new skill. Explore alternatives that accelerate learning.
+
+I love to collaborate with others to discover bargains: high value at low cost. Bargain hunting is an opportunity to be agile by considering several approaches to solving a problem and discovering a suitable solution that is both efficient and effective. Are you regularly considering your options?
+To be more agile, consider at least three options.
+
+Stop hurrying, find balance, and learn quickness under control. Be quick—but don’t hurry.
+
+A siloed team tends to focus on its own work and doesn’t collaborate gracefully with other siloed teams. When an organization needs work to be done across silos, you end up with slow handoffs—one silo waiting a while for another silo to complete work.
+
+Teams that are truly agile work quickly and easily and have few to no slow handoffs. 
+
+They are composed of the right mix of staff (something we call a “balanced team”) to enable high-speed value creation and delivery. Two of the most agile teams I’ve ever worked with were not small. One team had sixteen full-time people (and several more part-time staff) while the other had thirty full-time people.
+
+•    Remove one slow handoff at a time: Look for one slow handoff and remove it by inviting an external person to collaborate (even temporarily) with your team. Repeat for every slow handoff.
+•    Insource slow dependencies: For any slow dependency, find a way to insource it completely rather than outsourcing it to another team.
+•    Make the slowness visible: Calculate and visualize the time wasted while waiting for slow handoffs to complete. Use metrics and visualizations to catalyze a change toward a genuine, balanced team.
+•    Limit work in process: While a team is waiting on other teams to complete work, it often begins new work. This leads to lots of work in process, with little getting finished and delivered. Limiting the amount of new work that may be started before current work is finished is a way to bring more attention to the bottlenecks resulting from slow handoffs.
+
+Respond rapidly to people. It respects them and rewards you.
 
 develop: https://www.youtube.com/watch?v=WSes_PexXcA&t=1s
 dora metrics
