@@ -12,7 +12,7 @@ Why agile teams realy need to understand agile development? because they have fr
 
 If you have slow feedback loop, you can lose trust from your team and you may want work about work (like Scrum dailys).
 
-## Why big teams doesn't work?
+## Why big teams doesn't work? (not exactly teams but groups of development, you can have a big team but with smalls groups of development)
 Agile software development implies connection with product/client. The bigger the team is, the greater the likelihood of only some of the members be conected to the 
 value to be delivered. Even if only a few members of a little team will develop a feature, all the team need to understand the value.
 
@@ -66,6 +66,13 @@ They are composed of the right mix of staff (something we call a “balanced tea
 •    Limit work in process: While a team is waiting on other teams to complete work, it often begins new work. This leads to lots of work in process, with little getting finished and delivered. Limiting the amount of new work that may be started before current work is finished is a way to bring more attention to the bottlenecks resulting from slow handoffs.
 
 Respond rapidly to people. It respects them and rewards you.
+
+
+## Lack of education
+There is a big lack of education in our industry, example:
+  "I need estimates because i cant invest 1M without know if it will works in one year"
+  R: "If we do something in 2 weeks to you see if is right and we can adjust, go to the next thing and do the more important things first"
+  "It will be great!"
 
 develop: https://www.youtube.com/watch?v=WSes_PexXcA&t=1s
 dora metrics
