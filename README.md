@@ -74,6 +74,66 @@ There is a big lack of education in our industry, example:
   R: "If we do something in 2 weeks to you see if is right and we can adjust, go to the next thing and do the more important things first"
   "It will be great!"
 
+## Agility with Allen: The Business of Agile
+Agile: 1 - Marked by ready ability to move with quick easy grace. 2 - Having a quick resourceful and adaptable character.
+An agile entreprise is one that has achieved a level of operational excellence that enables it to make changes at the same pace that it discovers a need for them (Tim Snyder)
+
+Agility is a business strategy
+  - It is not a process or methodology (but there are process that can help)
+It requires a suitable culture
+Becoming agile change all the levels of the organization
+
+Story: A narrative that takes a user through some process that results in a valuable outcome.
+
+Risk management: Big batches = more risk, small batches of evolutive work = less risk
+
+WE LEARN AS WE WORK
+
+Cost of X days of delay or rework: Direct costs(like developers) + opportunity cost (no working in the right thing)
+
+Time is money
+  Cost of delay
+  Cost of rework
+  Cost of defects
+  Cost of communication
+Deliver early, deliver often
+
+Trust and empower the people who do the work
+
+Is better to solve a small critical problem now than deliver something perfect in a year
+Use thin vertical slices.
+
+Plan around value, not time. You dont need estimates, you need to deliver the most important thing to you customer.
+To know the more important thing, talk to your customer and develop a culture of experimentation and learning
+
+Plans need to change as we work. Its a example of what can be, not a prediction of what will happen. 
+
+## Forecasts
+Forecast != Estimate (not scientific language) - We use events of similar nature (stories of size 1, defining size 1 through estimates) with Monte Carlo method to generate a forecast. Trying to predict events of a different nature from stories will generate a higher % error, given the non-standardization of time for items such as bugs.
+
+      Starting from the premise that people work at a sustainable pace when they are working on things that are not urgent like bugs or delayed deliveries (defining sustainable pace as something perceived through our experimentation). If they do not work at a sustainable pace, the likelihood of structural problems (layoffs, decreased quality in production) becomes greater.
+
+Therefore, there is a standard work rhythm for normal deliveries, it does not mean that this is an optimal qualification between performance and sustainability, but it is a phenomenon that exists. If this is not happening, we are dealing with personal/individual problems (such as excessive procrastination) or a lack of ethics/commitment, but the solution to these problems is different.
+
+From this point of view I always assume that things will always take exactly as long as necessary to be done, it is obvious that there may be situations where when planning is too loose people unnecessarily slow down, but this is a side effect of PREDICTION
+
+Separate categories:
+Bugs that depend on impact may have top priority and should be resolved as quickly as possible at any cost
+Resources with data fixation (generally for strategic reasons for the company) disable more detailed monitoring of progress so that we know if we are late, we recommend taking some action such as overtime or giving up certain features or quality...
+
+Features without a fixed date, which have a forecast, the forecast date cannot be used as an instrument to rush the development process unnecessarily, if so, we will unintentionally use rigid timeboxes (such as sprints) and will consequently harm the effects of having a data correction for everything.
+
+Everyone is obviously an adult and knows that this does not mean that performance should not be demanded, but rather understand that (ATTENTION):
+   The delivery date prediction mechanism is the one that must adjust the delivery date. And there are no people who should rush to get the engine's prediction data right at any cost.
+
+Obviously observing the particularities of the demands (whether there is fixed data or not) and the impact of the specific ones on the company's roadmap. There may be situations in which the company finds itself hostage to the forecasting mechanism and needs to accelerate a certain delivery: example: Delivery date set for the 15th, if delivery if there is a risk so close?), but it is a specific situation, it is another story, I am speaking in abstract terms.
+
+    Concluding:
+      1 - Forecast data should not be used as a way to rush the development process without a real need for the company.
+      2 - If the forecast is frequently wrong, what should be adjusted is the forecast method.
+      3 - If productivity is low it must be increased, however this conversation did not focus on this merit but rather on the function of the ability to predict delivery data.
+
+## TODO
 develop: https://www.youtube.com/watch?v=WSes_PexXcA&t=1s
 dora metrics
 xp book
