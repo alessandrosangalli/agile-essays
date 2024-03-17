@@ -109,6 +109,7 @@ To know the more important thing, talk to your customer and develop a culture of
 Plans need to change as we work. Its a example of what can be, not a prediction of what will happen. 
 
 ## Forecasts
+People fail to understand that needing to know something doesn't make it possible for the knowledge to be made available.
 Forecast != Estimate (not scientific language) - We use events of similar nature (stories of size 1, defining size 1 through estimates) with Monte Carlo method to generate a forecast. Trying to predict events of a different nature from stories will generate a higher % error, given the non-standardization of time for items such as bugs.
 
       Starting from the premise that people work at a sustainable pace when they are working on things that are not urgent like bugs or delayed deliveries (defining sustainable pace as something perceived through our experimentation). If they do not work at a sustainable pace, the likelihood of structural problems (layoffs, decreased quality in production) becomes greater.
